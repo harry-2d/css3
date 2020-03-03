@@ -1,0 +1,20 @@
+ul li{
+	background: green;
+	color: white;
+	padding: 10px 25px;
+	display: inline-block;
+	width: 25px;
+	height: 20px;
+	text-shadow: black;
+}
+
+ul li a{
+	display: block;
+	color: white; 
+	text-decoration: solid;
+	}
+
+a:hover{
+	transition: ease-in 1s;
+	transform: scale(0.75);
+}
